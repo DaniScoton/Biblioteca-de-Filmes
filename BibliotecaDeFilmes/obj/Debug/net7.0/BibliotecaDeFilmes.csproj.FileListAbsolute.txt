@@ -1,0 +1,14 @@
+C:\Users\danie\OneDrive\Área de Trabalho\Projetos\BibliotecaDeFilmes\BibliotecaDeFilmes\bin\Debug\net7.0\BibliotecaDeFilmes.exe
+C:\Users\danie\OneDrive\Área de Trabalho\Projetos\BibliotecaDeFilmes\BibliotecaDeFilmes\bin\Debug\net7.0\BibliotecaDeFilmes.deps.json
+C:\Users\danie\OneDrive\Área de Trabalho\Projetos\BibliotecaDeFilmes\BibliotecaDeFilmes\bin\Debug\net7.0\BibliotecaDeFilmes.runtimeconfig.json
+C:\Users\danie\OneDrive\Área de Trabalho\Projetos\BibliotecaDeFilmes\BibliotecaDeFilmes\bin\Debug\net7.0\BibliotecaDeFilmes.dll
+C:\Users\danie\OneDrive\Área de Trabalho\Projetos\BibliotecaDeFilmes\BibliotecaDeFilmes\bin\Debug\net7.0\BibliotecaDeFilmes.pdb
+C:\Users\danie\OneDrive\Área de Trabalho\Projetos\BibliotecaDeFilmes\BibliotecaDeFilmes\obj\Debug\net7.0\BibliotecaDeFilmes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danie\OneDrive\Área de Trabalho\Projetos\BibliotecaDeFilmes\BibliotecaDeFilmes\obj\Debug\net7.0\BibliotecaDeFilmes.AssemblyInfoInputs.cache
+C:\Users\danie\OneDrive\Área de Trabalho\Projetos\BibliotecaDeFilmes\BibliotecaDeFilmes\obj\Debug\net7.0\BibliotecaDeFilmes.AssemblyInfo.cs
+C:\Users\danie\OneDrive\Área de Trabalho\Projetos\BibliotecaDeFilmes\BibliotecaDeFilmes\obj\Debug\net7.0\BibliotecaDeFilmes.csproj.CoreCompileInputs.cache
+C:\Users\danie\OneDrive\Área de Trabalho\Projetos\BibliotecaDeFilmes\BibliotecaDeFilmes\obj\Debug\net7.0\BibliotecaDeFilmes.dll
+C:\Users\danie\OneDrive\Área de Trabalho\Projetos\BibliotecaDeFilmes\BibliotecaDeFilmes\obj\Debug\net7.0\refint\BibliotecaDeFilmes.dll
+C:\Users\danie\OneDrive\Área de Trabalho\Projetos\BibliotecaDeFilmes\BibliotecaDeFilmes\obj\Debug\net7.0\BibliotecaDeFilmes.pdb
+C:\Users\danie\OneDrive\Área de Trabalho\Projetos\BibliotecaDeFilmes\BibliotecaDeFilmes\obj\Debug\net7.0\BibliotecaDeFilmes.genruntimeconfig.cache
+C:\Users\danie\OneDrive\Área de Trabalho\Projetos\BibliotecaDeFilmes\BibliotecaDeFilmes\obj\Debug\net7.0\ref\BibliotecaDeFilmes.dll

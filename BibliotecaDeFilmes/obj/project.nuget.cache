@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "w8lyWTMgMK/zENSL8A8ptPEFnkVmlM3+EuJzR7Js8km0MZnY9StxEBjN+/lZrHe5O/bwsujMQKbG36GYAyMwLg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\danie\\OneDrive\\Área de Trabalho\\Projetos\\BibliotecaDeFilmes\\BibliotecaDeFilmes\\BibliotecaDeFilmes.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1803",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Você está executando a operação 'restore' com uma fonte 'HTTP', 'http://200.98.128.83:81/nugetserver/nuget'. O acesso não HTTPS será removido em uma versão futura. Considere migrar para uma fonte 'HTTPS'."
+    }
+  ]
+}
